@@ -1,0 +1,34 @@
+[
+    {
+        "socialApp": "facebook",
+        "socialUser": "@nathanf",
+        "followersNumber": "1987",
+        "followerText": "Followers",
+        "followersTodayNumber": 12,
+        "borderTopColor": "border-blue-400 border-t-4"
+    },
+    {
+        "socialApp": "twitter",
+        "socialUser": "@nathanf",
+        "followersNumber": "1044",
+        "followerText": "Followers",
+        "followersTodayNumber": 99,
+        "borderTopColor": "border-blue-400 border-t-4"
+    },
+    {
+        "socialApp": "instagram",
+        "socialUser": "@realnathanf",
+        "followersNumber": "11k",
+        "followerText": "Followers",
+        "followersTodayNumber": "1099",
+        "borderTopColor": "relative before:absolute before:inset-0 before:h-1 before:rounded-t-md before:bg-gradient-to-r before:from-[#FDB55D] before:to-[#DE428B]"
+    },
+    {
+        "socialApp": "youtube",
+        "socialUser": "Nathan F.",
+        "followersNumber": "8239",
+        "followerText": "Subscribers",
+        "followersTodayNumber": "-144",
+        "borderTopColor": "border-red-700 border-t-4"
+    }
+]
